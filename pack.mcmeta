@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 57,
+    "description": "Adds multicolored variations of sweet berry bushes",
+    "supported_formats": {
+      "min_inclusive": 30,
+      "max_inclusive": 999
+    }
+  }
+}
