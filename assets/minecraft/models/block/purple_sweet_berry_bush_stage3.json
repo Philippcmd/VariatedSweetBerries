@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+      "crop": "minecraft:block/purple_sweet_berry_bush_stage3"
+  }
+}
