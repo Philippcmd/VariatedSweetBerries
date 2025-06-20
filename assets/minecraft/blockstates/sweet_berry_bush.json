@@ -5,7 +5,9 @@
           { "model": "block/blue_sweet_berry_bush_stage2", "weight": 1 },
           { "model": "block/black_sweet_berry_bush_stage2", "weight": 1 },
           { "model": "block/orange_sweet_berry_bush_stage2", "weight": 1 },
-          { "model": "block/purple_sweet_berry_bush_stage2", "weight": 1 }
+          { "model": "block/purple_sweet_berry_bush_stage2", "weight": 1 },
+          { "model": "block/green_sweet_berry_bush_stage2", "weight": 1 },
+          { "model": "block/dark_blue_sweet_berry_bush_stage2", "weight": 1 }
     
       ],
       "age=3": [
@@ -13,7 +15,9 @@
           { "model": "block/blue_sweet_berry_bush_stage3", "weight": 1 },
           { "model": "block/black_sweet_berry_bush_stage3", "weight": 1 },
           { "model": "block/orange_sweet_berry_bush_stage3", "weight": 1 },
-          { "model": "block/purple_sweet_berry_bush_stage3", "weight": 1 }
+          { "model": "block/purple_sweet_berry_bush_stage3", "weight": 1 },
+          { "model": "block/green_sweet_berry_bush_stage3", "weight": 1 },
+          { "model": "block/dark_blue_sweet_berry_bush_stage3", "weight": 1 }
       ]
   }
 }
